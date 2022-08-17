@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 class ProviderTab extends StatefulWidget {
+  const ProviderTab({super.key});
+
   @override
   State<ProviderTab> createState() => _ProviderTabState();
 }

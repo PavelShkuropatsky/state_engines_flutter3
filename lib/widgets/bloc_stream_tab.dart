@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import '../bloc/bloc_stream.dart';
 
 class BlocStreamTab extends StatefulWidget {
+  const BlocStreamTab({super.key});
+
   @override
   State<StatefulWidget> createState() => BlocStreamTabState();
 }

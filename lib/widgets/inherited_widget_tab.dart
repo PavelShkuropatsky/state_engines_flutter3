@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class InheritedWidgetTab extends StatefulWidget {
-  InheritedWidgetTab({super.key});
+  const InheritedWidgetTab({super.key});
 
   @override
   State<StatefulWidget> createState() => _InheritedWidgetTabState();

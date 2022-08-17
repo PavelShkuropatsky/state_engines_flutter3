@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../bloc/bloc_cubit.dart';
 
 class BlocCubitTab extends StatefulWidget {
-  BlocCubitTab({super.key});
+  const BlocCubitTab({super.key});
 
   @override
   State<BlocCubitTab> createState() => _BlocCubitTabState();

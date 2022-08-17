@@ -27,9 +27,9 @@ class HomePage extends StatelessWidget {
             ],
           ),
         ),
-        body: TabBarView(
+        body: const TabBarView(
           children: [
-            const SetStateTab(),
+            SetStateTab(),
             InheritedWidgetTab(),
             //ScopedModelPage(model: CounterStateModel()),
             ProviderTab(),
