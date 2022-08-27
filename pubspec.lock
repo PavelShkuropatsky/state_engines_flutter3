@@ -297,14 +297,14 @@ packages:
       name: matcher
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.12.11"
+    version: "0.12.12"
   material_color_utilities:
     dependency: transitive
     description:
       name: material_color_utilities
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.5"
+    version: "0.2.0"
   meta:
     dependency: transitive
     description:
@@ -389,6 +389,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "5.0.0"
+  rxdart:
+    dependency: "direct main"
+    description:
+      name: rxdart
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.27.5"
   shelf:
     dependency: transitive
     description:
@@ -421,7 +428,7 @@ packages:
       name: source_span
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.9.0"
+    version: "1.9.1"
   stack_trace:
     dependency: transitive
     description:
@@ -463,7 +470,7 @@ packages:
       name: test_api
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.4.9"
+    version: "0.4.12"
   timing:
     dependency: transitive
     description:

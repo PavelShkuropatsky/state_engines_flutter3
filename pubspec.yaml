@@ -40,6 +40,7 @@ dependencies:
   flutter_mobx: ^2.0.6+1
   redux: ^5.0.0
   flutter_redux: ^0.10.0
+  rxdart: ^0.27.5
 
 dev_dependencies:
   flutter_test:

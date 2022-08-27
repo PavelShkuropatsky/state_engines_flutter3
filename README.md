@@ -3,6 +3,9 @@ Educational project for learning State Managments in Flutter on the pretty simpl
 
 Includes
 
+- rxDart (27.08.2022)
+  - separate left and right counter
+  - with side effect - updating head counter
 - Redux (17.08.2022)
   - separate left and right counter 
   - with head counter through middleware
