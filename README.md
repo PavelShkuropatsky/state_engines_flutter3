@@ -1,5 +1,5 @@
 # state_engines_flutter3
-Educational project for learning State Managments in Flutter on the pretty simple example "Counter"
+Studying project about State Managments in Flutter on the pretty simple example "Counter"
 
 Includes
 
@@ -14,7 +14,7 @@ Includes
 - BLoC by Cubit
 - BLoC by Streams
 - Provider
-- Scoped Model (disabled because it doesn't support null-safety)
+- Scoped Model (disabled because it doesn't supports null-safety)
 - Inherited Widget
 - setState(Vanilla)
 
